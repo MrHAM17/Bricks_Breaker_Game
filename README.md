@@ -2,7 +2,7 @@
 
 This is "master" branch(main) of this repo; And presenting latest version (i.e, version no. 1.0) of the app.
 
-It is the basic Desktop Game Application. Below, point by point complete detailed information is discussed.
+It is the basic Desktop Game Application.It’s a GUI-based project used with the swing library to organize all the elements that work under the Brick Breaker game. Below, point by point complete detailed information is discussed.
 
 ## Chapter 1: Introduction
 
@@ -114,9 +114,9 @@ Prototype Model :
 
 ### 4.1. Tech Stack :
 
--  **Developer:** Java, Apache-Net-Beans
+-  **Developer:** Java, Apache-Net-Beans, JFrame, JPanel, Java Graphics Kit, Game development.
 
--  **Client:** Smartphone with minimum 2GB RAM,  minimum API level of 21
+-  **Client:** Desktop with minimum 2 GB RAM.
 
 
  
